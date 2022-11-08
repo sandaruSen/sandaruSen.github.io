@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -49,6 +48,7 @@ author_profile: true
 </details>
 </div>
 
+<hr>
 # 2019
 ---
 
