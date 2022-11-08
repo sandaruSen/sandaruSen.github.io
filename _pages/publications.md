@@ -34,14 +34,9 @@ author_profile: true
 
 # 2021
 ---
-<hr>
-<div>
-<strong>Comparison of Word and Character Level Information for Medical Term Identification Using Convolutional Neural Networks and Transformers.</strong> Seneviratne S, Lenskiy A, Nolan C, Daskalaki E, Suominen H. Studies in Health Technology and Informatics 2021.
-<details>
-  
 
-</details>
-</div>
+**Comparison of Word and Character Level Information for Medical Term Identification Using Convolutional Neural Networks and Transformers.** Seneviratne S, Lenskiy A, Nolan C, Daskalaki E, Suominen H. Studies in Health Technology and Informatics 2021.
+
 <hr>
 
 
@@ -53,7 +48,6 @@ author_profile: true
 <blockquote><p>Extraction of categorised named entities from text is a complex task given the availability of a variety of Named Entity Recognition (NER) models and the unstructured information encoded in different source document formats. Processing the documents to extract text, identifying suitable NER models for a task, and obtaining statistical information is important in data analysis to make informed decisions. This paper presents\footnoteThe manuscript follows guidelines to showcase a demonstration that introduces an overview of how the toolkit works: input document set, initial settings, processing, and output set. The input document set is artificial in order to show various toolkit capabilities. TNNT, a toolkit that automates the extraction of categorised named entities from unstructured information encoded in source documents, using diverse state-of-the-art (SOTA) Natural Language Processing (NLP) tools and NER models.TNNT integrates 21 different NER models as part of a Knowledge Graph Construction Pipeline (KGCP) that takes a document set as input and processes it based on the defined settings, applying the selected blocks of NER models to output the results. The toolkit generates all results with an integrated summary of the extracted entities, enabling enhanced data analysis to support the KGCP, and also, to aid further NLP tasks.</p></blockquote>
 </details>
 </div>
-<hr>
 
 # 2019
 ---
@@ -64,7 +58,7 @@ author_profile: true
 # 2018
 ---
 
-**Knowledge Building via Optimally Clustered Word Embedding with Hierarchical Clustering. **. Pathirana N, Seneviratne S, Samarawickrama R, Wolff S, Chitraranjan C, Thayasivam U, Ranasinghe T. 15th International Conference on Natural Language Processing (ICON 2018). 
+**Knowledge Building via Optimally Clustered Word Embedding with Hierarchical Clustering.**. Pathirana N, Seneviratne S, Samarawickrama R, Wolff S, Chitraranjan C, Thayasivam U, Ranasinghe T. 15th International Conference on Natural Language Processing (ICON 2018). 
 
 
 
