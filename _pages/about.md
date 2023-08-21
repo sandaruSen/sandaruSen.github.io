@@ -9,7 +9,7 @@ redirect_from:
 
 **Hello World**
 
-I'm Sandaru Seneviratne, a PhD student at the School of Computing, The Australian National University. My research interests are in the fields of Natural Language Processing (NLP), Health Informatics, ML, DL, and Biomedical NLP.
+I'm Sandaru Seneviratne, a data scientist with over 4 years of experience in Machine Learning and Deep Learning models and applications. I'm currently completing a PhD degree in Computer Science at the School of Computing, The Australian National University. My research interests are in the fields of Natural Language Processing (NLP), Health Informatics, ML, DL, and Biomedical NLP.
 
 I completed my BSc (Hons) in Computer Science & Engineering from the University of Moratuwa, Sri Lanka. I have worked as a trainee software engineer and a software engineer in the travel industry, developing software solutions to create stable reservation platforms.
 
